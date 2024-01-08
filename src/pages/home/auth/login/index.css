@@ -1,0 +1,25 @@
+
+.login-wrapper2{
+     background-color: azure;
+}
+.login-wrapper3{
+     background-color: azure;
+}
+.p1{
+     color: white;
+     font-size: larger;
+}
+.p2{
+     color: white;
+     font-size: larger;
+}
+
+
+.p3{
+     color: blue;
+     text-decoration: underline;
+}
+.nav-link :hover{
+  color:greenyellow;
+  text-decoration: none;
+}
