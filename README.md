@@ -16,7 +16,7 @@
    git clone git@github.com:Madhav-dhakal/Book_Store.git
 2. Navigate to the project directory:
    cd path
-3. Make sure you have the required packages installed
+3. Make sure you have the required packages installed: npm install
 4. Start the server:npm start
    ## Packages Used:
   - [Bootstrap](https://getbootstrap.com/)
