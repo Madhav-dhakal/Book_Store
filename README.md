@@ -1,5 +1,6 @@
-Book Store - MERN_STACK
+# Book Store - MERN_STACK
  
- FrontEnd: HTML,CSS,JavaScript,ReactJS,Bootstrap,React-Bootstrap
+## FrontEnd: HTML,CSS,JavaScript,ReactJS,Bootstrap,React-Bootstrap
 
- Backend:ExpressJS,MongoDB,NodeJS
+## Backend:ExpressJS,MongoDB,NodeJS
+ 
