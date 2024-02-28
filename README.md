@@ -14,10 +14,10 @@
 1. Clone the repository:
    git clone git@github.com:Madhav-dhakal/Book_Store.git
 2. Navigate to the project directory:
-   cd <path>
+   cd path
 3. Make sure you have the required packages installed
    ## Install dependencies:
-   **npm init -y**
-   **npm i express**
-   **npm i nodemon --save-dev**
+   1. **npm init -y**
+   2. **npm i express**
+   3. **npm i nodemon --save-dev**
  
