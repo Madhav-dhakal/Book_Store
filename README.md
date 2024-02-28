@@ -18,8 +18,7 @@
 3. Make sure you have the required packages installed
 4. Start the server:npm start
    ## Packages Used:
-    [Bootstrap] (https://getbootstrap.com/)
-   [Axios] (https://github.com/axios/axios)
-   ## Backend
+    [Bootstrap](https://getbootstrap.com/)
+   [Axios](https://github.com/axios/axios)
     [Express](https://expressjs.com/)
    [Mongoose](https://mongoosejs.com/)
