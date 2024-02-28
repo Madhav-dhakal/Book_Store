@@ -16,8 +16,10 @@
 2. Navigate to the project directory:
    cd path
 3. Make sure you have the required packages installed
-   ## Install dependencies:
-   1. **npm init -y**
-   2. **npm i express**
-   3. **npm i nodemon --save-dev**
- 
+4. Start the server:npm start
+   ## Packages Used:
+    [Bootstrap] (https://getbootstrap.com/)
+   [Axios] (https://github.com/axios/axios)
+   ## Backend
+    [Express](https://expressjs.com/)
+   [Mongoose](https://mongoosejs.com/)
