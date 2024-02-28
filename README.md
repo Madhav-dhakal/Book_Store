@@ -8,5 +8,13 @@
 ## Technologies Used
 ### FrontEnd: HTML,CSS,JavaScript,ReactJS,Bootstrap,React-Bootstrap
 ### Backend:ExpressJS,NodeJS
-**Database**: MongoDB
+### Database: MongoDB
+
+## Getting Started
+1. Clone the repository:
+   git clone <url>
+   ## Install dependencies:
+   npm init -y
+   npm i express
+   npm i nodemon --save-dev
  
