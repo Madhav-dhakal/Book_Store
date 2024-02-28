@@ -12,9 +12,9 @@
 
 ## Getting Started
 1. Clone the repository:
-   git clone <url>
+   git clone git@github.com:Madhav-dhakal/Book_Store.git
    ## Install dependencies:
-   npm init -y
-   npm i express
-   npm i nodemon --save-dev
+   **npm init -y**
+   **npm i express**
+   **npm i nodemon --save-dev**
  
